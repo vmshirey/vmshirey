@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🦋 I am a biodiversity data science working on global change processes and the restructuring of biodiversity on our planet.
+🦋 I am a biodiversity data scientist working on global change processes and the restructuring of biodiversity on our planet.
 
 <!--
 **vmshirey/vmshirey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
